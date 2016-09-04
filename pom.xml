@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>moxie</artifactId>
-    <version>1.5-beta.2</version>
+    <version>1.6-beta.2-SNAPSHOT</version>
     <name>moxie</name>
     <description>WebJar for moxie</description>
     <url>http://webjars.org</url>
@@ -49,7 +49,7 @@
         <url>http://github.com/webjars/moxie</url>
         <connection>scm:git:https://github.com/webjars/moxie.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/moxie.git</developerConnection>
-        <tag>moxie-1.5-beta.2</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
